@@ -4,7 +4,7 @@ title: About our values
 ---
 ### Shade-grown coffee
 
-test update
+test update 2
 
 
 
